@@ -1,0 +1,2 @@
+# pubkitjs
+ActivityPub framework, WIP
